@@ -11,3 +11,6 @@ Responsive Bootstrap Website using jquery filters :: [https://embrexemb.github.i
 
 Plotly Example using javascript and Python :: [https://embrexemb.github.io/15-Plotly-Challenge/
 ](https://embrexemb.github.io/15-Plotly-Challenge/)
+
+D3 Visualization Example :: [https://embrexemb.github.io/16-D3-Challenge/
+](https://embrexemb.github.io/16-D3-Challenge/)
