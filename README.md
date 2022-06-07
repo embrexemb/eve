@@ -11,10 +11,10 @@ Responsive Bootstrap Website coded from scratch :: [https://embrexemb.github.io/
 Responsive Bootstrap Website using jquery filters :: [https://embrexemb.github.io/Demo/
 ](https://embrexemb.github.io/Demo/)
 
-Plotly Example using javascript and Python :: [https://embrexemb.github.io/15-Plotly-Challenge/
+D3 - Plotly Example :: [https://embrexemb.github.io/15-Plotly-Challenge/
 ](https://embrexemb.github.io/15-Plotly-Challenge/)
 
-D3 Visualization Example :: [https://embrexemb.github.io/16-D3-Challenge/
+D3 - Plotly Visualization Example :: [https://embrexemb.github.io/16-D3-Challenge/
 ](https://embrexemb.github.io/16-D3-Challenge/)
 
 Jupyter Notebook viewer Examples - Coming soon
