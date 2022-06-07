@@ -1,5 +1,7 @@
 # eve
 
+To return to this URL use the back button [<] 
+
 Hosted API for group project  :: [https://mysterious-basin-99510.herokuapp.com/
 ](https://mysterious-basin-99510.herokuapp.com/)
 
@@ -15,4 +17,4 @@ Plotly Example using javascript and Python :: [https://embrexemb.github.io/15-Pl
 D3 Visualization Example :: [https://embrexemb.github.io/16-D3-Challenge/
 ](https://embrexemb.github.io/16-D3-Challenge/)
 
-Notebook viewer Examples - Coming soon
+Jupyter Notebook viewer Examples - Coming soon
