@@ -8,3 +8,6 @@ Responsive Bootstrap Website coded from scratch :: [https://embrexemb.github.io/
 
 Responsive Bootstrap Website using jquery filters :: [https://embrexemb.github.io/Demo/
 ](https://embrexemb.github.io/Demo/)
+
+Plotly Example using javascript and Python :: [https://embrexemb.github.io/15-Plotly-Challenge/
+](https://embrexemb.github.io/15-Plotly-Challenge/)
