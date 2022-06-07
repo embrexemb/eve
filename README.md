@@ -25,6 +25,17 @@ The D3 library was used to read a json file of data values.  Data was organized 
 Dashboard Visualization Example :: [https://embrexemb.github.io/15-Plotly-Challenge/
 ](https://embrexemb.github.io/15-Plotly-Challenge/)
 
+# Working with animation using D3 
+![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
+
+The data visualization was set up to analyze current trends shaping people's lives, as well as creating charts, graphs and interactive elements to help readers understand the findings.  The test data shows the health risks facing particular demographics. The idea was based on looking through information from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System. The data set included with the assignment is based on 2014 ACS 1-year estimates from the [US Census Bureau](https://data.census.gov/cedsci/). The current data set includes data on rates of income, obesity, poverty, etc. by state. MOE stands for "margin of error."
+
+### using D3 
+To create a scatter plot between two of the data variables such as `Healthcare vs. Poverty` or `Smokers vs. Age` using D3 objects.  This example uses an animated scatter plot with multiple x and y axes and tooltips coded with D3 objects.
+
+
+
+
 Animated Visualization Example :: [https://embrexemb.github.io/16-D3-Challenge/
 ](https://embrexemb.github.io/16-D3-Challenge/)
 
