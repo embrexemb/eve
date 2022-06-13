@@ -2,10 +2,6 @@
 
 To return to this URL use the back button [<] 
 
-# Working together to create a hosted API for a capstone team project
-We developed a hosted API for group project - simple machine learning project  :: [https://mysterious-basin-99510.herokuapp.com/
-](https://mysterious-basin-99510.herokuapp.com/)
-
 # Latitude Analysis Dashboard using Bootstrap elements
 A visualization dashboard website using visualizations created using Jupyter Notebook for proof of concept.
 In building this dashboard, individual pages were created for each plot and a means by which we can navigate between them. These pages contain the visualizations and their corresponding explanations. 
